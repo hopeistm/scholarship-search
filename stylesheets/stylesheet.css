@@ -35,8 +35,8 @@ body {
 	text-align: center;
 }
 
-.fix-dat-indent-bug {
-	text-indent: -px;
+.centered {
+	text-align: center;
 }
 
 /* HTML5 display definitions
